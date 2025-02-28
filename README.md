@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😄 About Me:
 Welcome to my GitHub page :) <br><br>I am an experienced technology professional currently in the wonderful world of <br>data analytics.<br><br>Throughout time I have become intrigued with how data when properly utilized can play <br>an effective role in business decision making processes. I am passionate about technology, <br>especially data analytics because I have always been fascinated about programming <br>languages, databases, and spreadsheets. Data analytics allows us to think of solutions <br>to solve complex business problems.<br><br>Please feel free to check out my projects :)
 
 
